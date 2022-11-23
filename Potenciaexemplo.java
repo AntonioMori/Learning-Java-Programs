@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class primeiroprograma2 {
+public class Potenciaexemplo {
     
     static int potencia(int a, int b)
 	{
